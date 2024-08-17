@@ -1,16 +1,44 @@
-# image_connect_app
+# Flutter Cute Pets Mobile
 
-A new Flutter project.
+## Overview
+Flutter Cute Pets Mobile is a cross-platform mobile application that allows users to interact with the Cute Pets platform from their mobile devices.
 
-## Getting Started
+## Features
+- Mobile Authentication
+- View and Post Pet Images
+- Comment on Posts
+- Real-time Interactions
 
-This project is a starting point for a Flutter application.
+## Related Projects
+- FastAPI Backend: [FastAPI Cute Pets API](https://github.com/OgwuegbuMaxwell/fastapi-cute-pets-api)
+- React Web Client: [React Cute Pets Web](https://github.com/OgwuegbuMaxwell/react-cute-pets-web)
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the repository:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/OgwuegbuMaxwell/flutter-cut-pets-mobile
+```
+
+2. **Navigate to the project directory:**
+
+```bash
+cd flutter-cut-pets-mobile
+```
+
+3. **Install dependencies:**
+
+```bash
+flutter pub get
+```
+
+4. **Run the app:**
+
+```bash
+flutter run
+```
+
+
+## Usage
+The mobile app offers functionalities similar to the web client, with optimizations for mobile usability, including image uploads, post viewing, and commenting.
