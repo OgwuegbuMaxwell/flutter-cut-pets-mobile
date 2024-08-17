@@ -42,3 +42,5 @@ flutter run
 
 ## Usage
 The mobile app offers functionalities similar to the web client, with optimizations for mobile usability, including image uploads, post viewing, and commenting.
+
+![cut pets mobile](https://github.com/user-attachments/assets/5e20d1a6-3d3e-4ead-9e59-e634f9d1133f)
