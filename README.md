@@ -18,13 +18,13 @@ Flutter Cute Pets Mobile is a cross-platform mobile application that allows user
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/OgwuegbuMaxwell/flutter-cut-pets-mobile
+git clone https://github.com/OgwuegbuMaxwell/flutter-cute-pets-mobile
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd flutter-cut-pets-mobile
+cd flutter-cute-pets-mobile
 ```
 
 3. **Install dependencies:**
